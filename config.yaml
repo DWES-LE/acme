@@ -57,3 +57,6 @@ params:
 
   - title: Contact Us
     contact: true
+
+
+ignoreErrors: ["error-remote-getcsv"]
